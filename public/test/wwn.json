@@ -1,0 +1,107 @@
+[
+    {
+      "name": "Arrows,20",
+      "description": "",
+      "price": "2 sp",
+      "weight": 1,
+      "type": "gear"
+    },
+    {
+      "name": "Backpack",
+      "description": "",
+      "price": "2 sp",
+      "weight": 1,
+      "type": "gear"
+    },
+    {
+      "name": "Candle",
+      "description": "",
+      "price": "1 cp",
+      "weight": 0,
+      "type": "gear"
+    },
+    {
+      "name": "Clothes, common",
+      "description": "",
+      "price": "25 sp",
+      "weight": 1,
+      "type": "gear"
+    },
+    {
+      "name": "Torch",
+      "description": "",
+      "price": "2 cp",
+      "weight": 1,
+      "type": "gear"
+    },
+    {
+      "name": "Rope, 50’",
+      "description": "",
+      "price": "2 sp",
+      "weight": 2,
+      "type": "gear"
+    },
+    {
+      "name": "Waterskin, one gallon",
+      "description": "",
+      "price": "1 sp",
+      "weight": 1,
+      "type": "gear"
+    },
+    {
+      "name": "Scaled Armor",
+      "description": "",
+      "price": "500 sp",
+      "weight": 3,
+      "type": "armor"
+    },
+    {
+      "name": "Plate Armor",
+      "description": "",
+      "price": "1000 sp",
+      "weight": 2,
+      "type": "armor"
+    },
+    {
+      "name": "Great Armor",
+      "description": "",
+      "price": "2000 sp",
+      "weight": 3,
+      "type": "armor"
+    },
+    {
+      "name": "Small Shield",
+      "description": "",
+      "price": "20 sp",
+      "weight": 1,
+      "type": "armor"
+    },
+    {
+      "name": "Large Shield",
+      "description": "",
+      "price": "10 sp",
+      "weight": 1,
+      "type": "armor"
+    },
+    {
+      "name": "Axe, Hand",
+      "description": "",
+      "price": "10 sp",
+      "weight": 1,
+      "type": "weapon"
+    },
+    {
+      "name": "Bow, Large",
+      "description": "",
+      "price": "20 sp",
+      "weight": 2,
+      "type": "weapon"
+    },
+    {
+      "name": "Sword, Long",
+      "description": "",
+      "price": "100 sp",
+      "weight": 1,
+      "type": "weapon"
+    }
+  ]
