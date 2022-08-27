@@ -1,5 +1,6 @@
 [
     {
+      "id":1,
       "name": "Arrows,20",
       "description": "",
       "price": "2 sp",
@@ -7,6 +8,7 @@
       "type": "gear"
     },
     {
+      "id":2,
       "name": "Backpack",
       "description": "",
       "price": "2 sp",
@@ -14,6 +16,7 @@
       "type": "gear"
     },
     {
+      "id":3,
       "name": "Candle",
       "description": "",
       "price": "1 cp",
@@ -21,6 +24,7 @@
       "type": "gear"
     },
     {
+      "id":4,
       "name": "Clothes, common",
       "description": "",
       "price": "25 sp",
@@ -28,6 +32,7 @@
       "type": "gear"
     },
     {
+      "id":5,
       "name": "Torch",
       "description": "",
       "price": "2 cp",
@@ -35,6 +40,7 @@
       "type": "gear"
     },
     {
+      "id":6,
       "name": "Rope, 50’",
       "description": "",
       "price": "2 sp",
@@ -42,6 +48,7 @@
       "type": "gear"
     },
     {
+      "id":7,
       "name": "Waterskin, one gallon",
       "description": "",
       "price": "1 sp",
@@ -49,6 +56,7 @@
       "type": "gear"
     },
     {
+      "id":8,
       "name": "Scaled Armor",
       "description": "",
       "price": "500 sp",
@@ -56,6 +64,7 @@
       "type": "armor"
     },
     {
+      "id":9,
       "name": "Plate Armor",
       "description": "",
       "price": "1000 sp",
@@ -63,6 +72,7 @@
       "type": "armor"
     },
     {
+      "id":10,
       "name": "Great Armor",
       "description": "",
       "price": "2000 sp",
@@ -70,6 +80,7 @@
       "type": "armor"
     },
     {
+      "id":11,
       "name": "Small Shield",
       "description": "",
       "price": "20 sp",
@@ -77,6 +88,7 @@
       "type": "armor"
     },
     {
+      "id":12,
       "name": "Large Shield",
       "description": "",
       "price": "10 sp",
@@ -84,6 +96,7 @@
       "type": "armor"
     },
     {
+      "id":13,
       "name": "Axe, Hand",
       "description": "",
       "price": "10 sp",
@@ -91,6 +104,7 @@
       "type": "weapon"
     },
     {
+      "id":14,
       "name": "Bow, Large",
       "description": "",
       "price": "20 sp",
@@ -98,6 +112,7 @@
       "type": "weapon"
     },
     {
+      "id":15,
       "name": "Sword, Long",
       "description": "",
       "price": "100 sp",
