@@ -1,0 +1,33 @@
+Phase 1 
+- Add to current Inventory 
+- Save State when visiting other pages
+- Qty
+- Total weight
+Phase 2
+- add DB
+- admin interface to update DB 
+- save current Inventory 
+- Search Feature
+- Fliter Feature 
+Phase 3
+- save inventory to user
+- authentication 
+Phase 4
+- repeat with spells 
+- keep track of slots/uses?? 
+Phase 5 
+- make work with other rulesets or make it generic enough to work. 
+
+
+
+
+Goals:
+Make keeping track of encumbrance and inventory easy. 
+
+
+Possible Goals:
+auto track money when adding or selling? 
+
+
+Future Goals:
+RPGvendor
